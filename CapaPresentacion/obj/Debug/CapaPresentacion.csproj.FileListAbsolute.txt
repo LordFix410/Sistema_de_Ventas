@@ -1,0 +1,170 @@
+J:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+J:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+J:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+J:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+J:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+J:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+J:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+J:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+J:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+J:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+J:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+J:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+J:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+J:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\CapaEntidad.dll
+J:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\CapaNegocio.dll
+J:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\Microsoft.SqlServer.Server.dll
+J:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\System.Data.SqlClient.dll
+J:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\CapaDatos.dll
+J:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+J:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+J:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\Microsoft.SqlServer.Server.pdb
+J:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\Microsoft.SqlServer.Server.xml
+J:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\System.Data.SqlClient.xml
+J:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\CapaEntidad.dll
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\CapaNegocio.dll
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\Microsoft.SqlServer.Server.dll
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\System.Data.SqlClient.dll
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\CapaDatos.dll
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\Microsoft.SqlServer.Server.pdb
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\Microsoft.SqlServer.Server.xml
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\System.Data.SqlClient.xml
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\CapaEntidad.dll.config
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuarios.resources
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.exe.config
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\ClosedXML.dll
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\ClosedXML.Parser.dll
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\ExcelNumberFormat.dll
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\RBush.dll
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\SixLabors.Fonts.dll
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\System.Buffers.dll
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\System.Memory.dll
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\System.Numerics.Vectors.dll
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\ClosedXML.pdb
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\ClosedXML.xml
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\ClosedXML.Parser.xml
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\ExcelNumberFormat.xml
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\RBush.xml
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\SixLabors.Fonts.xml
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\System.Buffers.xml
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\System.Memory.xml
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\System.Numerics.Vectors.xml
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompraRegistrar.resources
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProveedor.resources
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProducto.resources
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompraVerDetalle.resources
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\BouncyCastle.Cryptography.dll
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\itextsharp.dll
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\itextsharp.xmlworker.dll
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\itextsharp.xml
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdCliente.resources
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleVenta.resources
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmNegocio.resources
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteCompras.resources
+E:\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdAcercade.resources
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\BouncyCastle.Cryptography.dll
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\CapaEntidad.dll
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\CapaNegocio.dll
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\ClosedXML.dll
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\ClosedXML.Parser.dll
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.dll
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\ExcelNumberFormat.dll
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\itextsharp.dll
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\itextsharp.xmlworker.dll
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\Microsoft.SqlServer.Server.dll
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\RBush.dll
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\SixLabors.Fonts.dll
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\System.Buffers.dll
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\System.Data.SqlClient.dll
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\System.Memory.dll
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\System.Numerics.Vectors.dll
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\CapaDatos.dll
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\CapaEntidad.dll.config
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\BouncyCastle.Cryptography.xml
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\ClosedXML.pdb
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\ClosedXML.xml
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\ClosedXML.Parser.xml
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.xml
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\ExcelNumberFormat.xml
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\itextsharp.xml
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\Microsoft.SqlServer.Server.pdb
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\Microsoft.SqlServer.Server.xml
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\RBush.xml
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\SixLabors.Fonts.xml
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\System.Buffers.xml
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\System.Data.SqlClient.xml
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\System.Memory.xml
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\System.Numerics.Vectors.xml
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.exe.config
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompraRegistrar.resources
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompraVerDetalle.resources
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleVenta.resources
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmNegocio.resources
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmReporteCompras.resources
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuarios.resources
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdAcercade.resources
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdCliente.resources
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProducto.resources
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProveedor.resources
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
