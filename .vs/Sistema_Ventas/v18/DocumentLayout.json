@@ -3,11 +3,35 @@
   "WorkspaceRootPath": "D:\\GITHUB\\Sistema_de_Ventas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9DD5C1A2-A48A-42F3-B22C-BBBEE650C745}|CapaDatos\\CapaDatos.csproj|d:\\github\\sistema_de_ventas\\capadatos\\cd_negocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B5528320-0843-400F-B2CF-8C435433EF18}|CapaEntidad\\CapaEntidad.csproj|D:\\GITHUB\\Sistema_de_Ventas\\capaentidad\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5528320-0843-400F-B2CF-8C435433EF18}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5528320-0843-400F-B2CF-8C435433EF18}|CapaEntidad\\CapaEntidad.csproj|D:\\GITHUB\\Sistema_de_Ventas\\capaentidad\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5528320-0843-400F-B2CF-8C435433EF18}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5528320-0843-400F-B2CF-8C435433EF18}|CapaEntidad\\CapaEntidad.csproj|D:\\GITHUB\\Sistema_de_Ventas\\capaentidad\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5528320-0843-400F-B2CF-8C435433EF18}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5528320-0843-400F-B2CF-8C435433EF18}|CapaEntidad\\CapaEntidad.csproj|D:\\GITHUB\\Sistema_de_Ventas\\capaentidad\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5528320-0843-400F-B2CF-8C435433EF18}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5528320-0843-400F-B2CF-8C435433EF18}|CapaEntidad\\CapaEntidad.csproj|D:\\GITHUB\\Sistema_de_Ventas\\capaentidad\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5528320-0843-400F-B2CF-8C435433EF18}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD5C1A2-A48A-42F3-B22C-BBBEE650C745}|CapaDatos\\CapaDatos.csproj|D:\\GITHUB\\Sistema_de_Ventas\\capadatos\\cd_categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD5C1A2-A48A-42F3-B22C-BBBEE650C745}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD5C1A2-A48A-42F3-B22C-BBBEE650C745}|CapaDatos\\CapaDatos.csproj|D:\\GITHUB\\Sistema_de_Ventas\\capadatos\\cd_negocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DD5C1A2-A48A-42F3-B22C-BBBEE650C745}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_negocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E5D54CE-A675-478B-ACFD-D8B8B0D57782}|CapaPresentacion\\CapaPresentacion.csproj|d:\\github\\sistema_de_ventas\\capapresentacion\\frmnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E5D54CE-A675-478B-ACFD-D8B8B0D57782}|CapaPresentacion\\CapaPresentacion.csproj|D:\\GITHUB\\Sistema_de_Ventas\\capapresentacion\\frmnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E5D54CE-A675-478B-ACFD-D8B8B0D57782}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -17,14 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4E5D54CE-A675-478B-ACFD-D8B8B0D57782}|CapaPresentacion\\CapaPresentacion.csproj|D:\\GITHUB\\Sistema_de_Ventas\\capapresentacion\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E5D54CE-A675-478B-ACFD-D8B8B0D57782}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DD5C1A2-A48A-42F3-B22C-BBBEE650C745}|CapaDatos\\CapaDatos.csproj|D:\\GITHUB\\Sistema_de_Ventas\\capadatos\\cd_categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DD5C1A2-A48A-42F3-B22C-BBBEE650C745}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5528320-0843-400F-B2CF-8C435433EF18}|CapaEntidad\\CapaEntidad.csproj|D:\\GITHUB\\Sistema_de_Ventas\\capaentidad\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5528320-0843-400F-B2CF-8C435433EF18}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5528320-0843-400F-B2CF-8C435433EF18}|CapaEntidad\\CapaEntidad.csproj|D:\\GITHUB\\Sistema_de_Ventas\\capaentidad\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,14 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B5528320-0843-400F-B2CF-8C435433EF18}|CapaEntidad\\CapaEntidad.csproj|D:\\GITHUB\\Sistema_de_Ventas\\capaentidad\\reportecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5528320-0843-400F-B2CF-8C435433EF18}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\reportecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5528320-0843-400F-B2CF-8C435433EF18}|CapaEntidad\\CapaEntidad.csproj|D:\\GITHUB\\Sistema_de_Ventas\\capaentidad\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5528320-0843-400F-B2CF-8C435433EF18}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5528320-0843-400F-B2CF-8C435433EF18}|CapaEntidad\\CapaEntidad.csproj|D:\\GITHUB\\Sistema_de_Ventas\\capaentidad\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5528320-0843-400F-B2CF-8C435433EF18}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5528320-0843-400F-B2CF-8C435433EF18}|CapaEntidad\\CapaEntidad.csproj|D:\\GITHUB\\Sistema_de_Ventas\\capaentidad\\permiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -69,14 +77,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B5528320-0843-400F-B2CF-8C435433EF18}|CapaEntidad\\CapaEntidad.csproj|D:\\GITHUB\\Sistema_de_Ventas\\capaentidad\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5528320-0843-400F-B2CF-8C435433EF18}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5528320-0843-400F-B2CF-8C435433EF18}|CapaEntidad\\CapaEntidad.csproj|D:\\GITHUB\\Sistema_de_Ventas\\capaentidad\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5528320-0843-400F-B2CF-8C435433EF18}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5528320-0843-400F-B2CF-8C435433EF18}|CapaEntidad\\CapaEntidad.csproj|D:\\GITHUB\\Sistema_de_Ventas\\capaentidad\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5528320-0843-400F-B2CF-8C435433EF18}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,37 +86,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\GITHUB\\Sistema_de_Ventas\\CapaEntidad\\Cliente.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\Cliente.cs",
+              "ToolTip": "D:\\GITHUB\\Sistema_de_Ventas\\CapaEntidad\\Cliente.cs",
+              "RelativeToolTip": "CapaEntidad\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T19:39:29.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "D:\\GITHUB\\Sistema_de_Ventas\\CapaEntidad\\Producto.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\Producto.cs",
+              "ToolTip": "D:\\GITHUB\\Sistema_de_Ventas\\CapaEntidad\\Producto.cs",
+              "RelativeToolTip": "CapaEntidad\\Producto.cs",
+              "ViewState": "AgIAAAUAAACAAQAAAEAlwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T19:43:13.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "D:\\GITHUB\\Sistema_de_Ventas\\CapaEntidad\\Proveedor.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\Proveedor.cs",
+              "ToolTip": "D:\\GITHUB\\Sistema_de_Ventas\\CapaEntidad\\Proveedor.cs",
+              "RelativeToolTip": "CapaEntidad\\Proveedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T19:43:38.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "D:\\GITHUB\\Sistema_de_Ventas\\CapaEntidad\\Venta.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\Venta.cs",
+              "ToolTip": "D:\\GITHUB\\Sistema_de_Ventas\\CapaEntidad\\Venta.cs",
+              "RelativeToolTip": "CapaEntidad\\Venta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T19:46:09.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "D:\\GITHUB\\Sistema_de_Ventas\\CapaEntidad\\Categoria.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\Categoria.cs",
+              "ToolTip": "D:\\GITHUB\\Sistema_de_Ventas\\CapaEntidad\\Categoria.cs",
+              "RelativeToolTip": "CapaEntidad\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T19:39:28.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CD_Categoria.cs",
+              "DocumentMoniker": "D:\\GITHUB\\Sistema_de_Ventas\\CapaDatos\\CD_Categoria.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_Categoria.cs",
+              "ToolTip": "D:\\GITHUB\\Sistema_de_Ventas\\CapaDatos\\CD_Categoria.cs",
+              "RelativeToolTip": "CapaDatos\\CD_Categoria.cs",
+              "ViewState": "AgIAAHkAAAAAMGZmZmYSwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T19:48:21.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "CD_Negocio.cs",
               "DocumentMoniker": "D:\\GITHUB\\Sistema_de_Ventas\\CapaDatos\\CD_Negocio.cs",
               "RelativeDocumentMoniker": "CapaDatos\\CD_Negocio.cs",
               "ToolTip": "D:\\GITHUB\\Sistema_de_Ventas\\CapaDatos\\CD_Negocio.cs",
               "RelativeToolTip": "CapaDatos\\CD_Negocio.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAamZmZmYgwA0AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-24T20:52:32.295Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmNegocio.cs",
-              "DocumentMoniker": "D:\\GITHUB\\Sistema_de_Ventas\\CapaPresentacion\\frmNegocio.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\frmNegocio.cs",
-              "ToolTip": "D:\\GITHUB\\Sistema_de_Ventas\\CapaPresentacion\\frmNegocio.cs",
-              "RelativeToolTip": "CapaPresentacion\\frmNegocio.cs",
-              "ViewState": "AgIAABIAAACwcGZmZqYlwCQAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T20:02:21.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "frmNegocio.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\GITHUB\\Sistema_de_Ventas\\CapaPresentacion\\frmNegocio.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\frmNegocio.cs",
@@ -127,7 +192,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
+              "Title": "frmNegocio.cs",
+              "DocumentMoniker": "D:\\GITHUB\\Sistema_de_Ventas\\CapaPresentacion\\frmNegocio.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmNegocio.cs",
+              "ToolTip": "D:\\GITHUB\\Sistema_de_Ventas\\CapaPresentacion\\frmNegocio.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmNegocio.cs",
+              "ViewState": "AgIAABIAAACwcGZmZqYlwCQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T20:02:21.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "frmProducto.cs",
               "DocumentMoniker": "D:\\GITHUB\\Sistema_de_Ventas\\CapaPresentacion\\frmProducto.cs",
               "RelativeDocumentMoniker": "CapaPresentacion\\frmProducto.cs",
@@ -139,31 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CD_Categoria.cs",
-              "DocumentMoniker": "D:\\GITHUB\\Sistema_de_Ventas\\CapaDatos\\CD_Categoria.cs",
-              "RelativeDocumentMoniker": "CapaDatos\\CD_Categoria.cs",
-              "ToolTip": "D:\\GITHUB\\Sistema_de_Ventas\\CapaDatos\\CD_Categoria.cs",
-              "RelativeToolTip": "CapaDatos\\CD_Categoria.cs",
-              "ViewState": "AgIAAHgAAAAAjJmZmZk1wHwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T19:48:21.269Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Venta.cs",
-              "DocumentMoniker": "D:\\GITHUB\\Sistema_de_Ventas\\CapaEntidad\\Venta.cs",
-              "RelativeDocumentMoniker": "CapaEntidad\\Venta.cs",
-              "ToolTip": "D:\\GITHUB\\Sistema_de_Ventas\\CapaEntidad\\Venta.cs",
-              "RelativeToolTip": "CapaEntidad\\Venta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T19:46:09.906Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Usuario.cs",
               "DocumentMoniker": "D:\\GITHUB\\Sistema_de_Ventas\\CapaEntidad\\Usuario.cs",
               "RelativeDocumentMoniker": "CapaEntidad\\Usuario.cs",
@@ -175,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Rol.cs",
               "DocumentMoniker": "D:\\GITHUB\\Sistema_de_Ventas\\CapaEntidad\\Rol.cs",
               "RelativeDocumentMoniker": "CapaEntidad\\Rol.cs",
@@ -187,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "ReporteVenta.cs",
               "DocumentMoniker": "D:\\GITHUB\\Sistema_de_Ventas\\CapaEntidad\\ReporteVenta.cs",
               "RelativeDocumentMoniker": "CapaEntidad\\ReporteVenta.cs",
@@ -199,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "ReporteCompra.cs",
               "DocumentMoniker": "D:\\GITHUB\\Sistema_de_Ventas\\CapaEntidad\\ReporteCompra.cs",
               "RelativeDocumentMoniker": "CapaEntidad\\ReporteCompra.cs",
@@ -211,31 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Proveedor.cs",
-              "DocumentMoniker": "D:\\GITHUB\\Sistema_de_Ventas\\CapaEntidad\\Proveedor.cs",
-              "RelativeDocumentMoniker": "CapaEntidad\\Proveedor.cs",
-              "ToolTip": "D:\\GITHUB\\Sistema_de_Ventas\\CapaEntidad\\Proveedor.cs",
-              "RelativeToolTip": "CapaEntidad\\Proveedor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T19:43:38.261Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "D:\\GITHUB\\Sistema_de_Ventas\\CapaEntidad\\Producto.cs",
-              "RelativeDocumentMoniker": "CapaEntidad\\Producto.cs",
-              "ToolTip": "D:\\GITHUB\\Sistema_de_Ventas\\CapaEntidad\\Producto.cs",
-              "RelativeToolTip": "CapaEntidad\\Producto.cs",
-              "ViewState": "AgIAAAUAAACAAQAAAEAlwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T19:43:13.052Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Permiso.cs",
               "DocumentMoniker": "D:\\GITHUB\\Sistema_de_Ventas\\CapaEntidad\\Permiso.cs",
               "RelativeDocumentMoniker": "CapaEntidad\\Permiso.cs",
@@ -247,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Negocio.cs",
               "DocumentMoniker": "D:\\GITHUB\\Sistema_de_Ventas\\CapaEntidad\\Negocio.cs",
               "RelativeDocumentMoniker": "CapaEntidad\\Negocio.cs",
@@ -259,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Detalle_Venta.cs",
               "DocumentMoniker": "D:\\GITHUB\\Sistema_de_Ventas\\CapaEntidad\\Detalle_Venta.cs",
               "RelativeDocumentMoniker": "CapaEntidad\\Detalle_Venta.cs",
@@ -271,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Detalle_Compra.cs",
               "DocumentMoniker": "D:\\GITHUB\\Sistema_de_Ventas\\CapaEntidad\\Detalle_Compra.cs",
               "RelativeDocumentMoniker": "CapaEntidad\\Detalle_Compra.cs",
@@ -283,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Compra.cs",
               "DocumentMoniker": "D:\\GITHUB\\Sistema_de_Ventas\\CapaEntidad\\Compra.cs",
               "RelativeDocumentMoniker": "CapaEntidad\\Compra.cs",
@@ -292,30 +321,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-24T19:39:41.92Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "D:\\GITHUB\\Sistema_de_Ventas\\CapaEntidad\\Cliente.cs",
-              "RelativeDocumentMoniker": "CapaEntidad\\Cliente.cs",
-              "ToolTip": "D:\\GITHUB\\Sistema_de_Ventas\\CapaEntidad\\Cliente.cs",
-              "RelativeToolTip": "CapaEntidad\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T19:39:29.288Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "D:\\GITHUB\\Sistema_de_Ventas\\CapaEntidad\\Categoria.cs",
-              "RelativeDocumentMoniker": "CapaEntidad\\Categoria.cs",
-              "ToolTip": "D:\\GITHUB\\Sistema_de_Ventas\\CapaEntidad\\Categoria.cs",
-              "RelativeToolTip": "CapaEntidad\\Categoria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T19:39:28.51Z"
             }
           ]
         }

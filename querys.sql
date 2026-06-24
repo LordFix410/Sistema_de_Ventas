@@ -57,9 +57,7 @@ IdRol int references ROL(IdRol),
 Estado bit,
 FechaRegistro datetime default getdate()
 )
-INSERT INTO USUARIO(documento, NombreCompleto, Correo, Clave, IdRol, Estado)
-VALUES('admin', 'Jair Abdiel Carcuz Lopez', 'abdielcarcuz@gmail.com','117', 2, 1);
-select * from usuario;
+
 go
 
 create table CATEGORIA(
@@ -756,12 +754,11 @@ create PROC sp_ReporteCompras(
 end
 
 
+GO
 
 
 /****************** INSERTAMOS REGISTROS A LAS TABLAS ******************/
 /*---------------------------------------------------------------------*/
-
-GO
 
  insert into rol (Descripcion)
  values('ADMINISTRADOR')
@@ -798,7 +795,7 @@ INSERT INTO PERMISO(IdRol, NombreMenu) VALUES
 
   GO
 
-  insert into PERMISO(IdRol,NombreMenu) values
+INSERT INTO PERMISO(IdRol,NombreMenu) values
 (2, 'menuVentas'),
 (2, 'menuCompras'),
 (2, 'menuClientes'),
@@ -809,11 +806,27 @@ INSERT INTO PERMISO(IdRol, NombreMenu) VALUES
 
   GO
 
-  insert into NEGOCIO(IdNegocio,Nombre,RTU,Direccion,Logo) values
-  (1,'Nombre Negocio','123456789-1','CIUDAD',null)
-  go
+INSERT INTO CATEGORIA(Descripcion, Estado) values
+('Higiene', 1)
+	GO
 
-  /************************SELECTS************************/
+INSERT INTO CLIENTE(Documento, NombreCompleto, Correo, Telefono, Estado) VALUES
+('1234', 'CLIENTE_NOMBRE', 'CORREOCLIENTE@GMAIL.COM', '12345678', 1)
+	GO
+
+INSERT INTO PRODUCTO(Codigo, Nombre, Descripcion, IdCategoria, Stock, PrecioCompra, PrecioVenta, Estado) VALUES
+('1234', 'COCACOLA', 'COCACOLA LITRO RETORNABLE', 1, 50, 12, 20, 1)
+	GO
+
+INSERT INTO NEGOCIO(IdNegocio,Nombre,NIT,Direccion,Logo) values
+  (1,'Nombre Negocio','123456789-1','CIUDAD',null)
+	GO
+
+INSERT INTO PROVEEDOR(Documento, RazonSocial, Correo, Telefono, Estado) VALUES
+('12345', 'RAZON SOCIAL S.A.', 'PROVEEDOR@GMAIL.COM', '23232323', 1)
+	GO
+
+  /****************SELECT DE CREDENCIALES*****************/
   /*-----------------------------------------------------*/
-  SELECT documento, clave FROM USUARIO;
-  SELECT * FROM NEGOCIO;
+  SELECT documento, clave FROM USUARIO
+  GO
