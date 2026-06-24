@@ -85,7 +85,7 @@ namespace CapaPresentacion
             {
                
 
-                int idusuariogenerado = new CN_Usuario().Registrar(objUsuario, out mensaje);
+                int idusuariogenerado = new CN_Usuario().Registrar(objUsuario, out mensaje);    
 
                 if (mensaje == string.Empty && idusuariogenerado != 0)
                 {

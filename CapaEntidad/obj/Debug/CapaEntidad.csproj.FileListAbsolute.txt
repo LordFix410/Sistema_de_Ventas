@@ -36,3 +36,16 @@ E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoS
 E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaEntidad\obj\Debug\CapaEnti.526B9C87.Up2Date
 E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.dll
 E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\GITHUB\Sistema_de_Ventas\CapaEntidad\bin\Debug\CapaEntidad.dll.config
+D:\GITHUB\Sistema_de_Ventas\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\GITHUB\Sistema_de_Ventas\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\GITHUB\Sistema_de_Ventas\CapaEntidad\bin\Debug\Microsoft.SqlServer.Server.dll
+D:\GITHUB\Sistema_de_Ventas\CapaEntidad\bin\Debug\System.Data.SqlClient.dll
+D:\GITHUB\Sistema_de_Ventas\CapaEntidad\bin\Debug\Microsoft.SqlServer.Server.pdb
+D:\GITHUB\Sistema_de_Ventas\CapaEntidad\bin\Debug\Microsoft.SqlServer.Server.xml
+D:\GITHUB\Sistema_de_Ventas\CapaEntidad\bin\Debug\System.Data.SqlClient.xml
+D:\GITHUB\Sistema_de_Ventas\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+D:\GITHUB\Sistema_de_Ventas\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+D:\GITHUB\Sistema_de_Ventas\CapaEntidad\obj\Debug\CapaEnti.526B9C87.Up2Date
+D:\GITHUB\Sistema_de_Ventas\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\GITHUB\Sistema_de_Ventas\CapaEntidad\obj\Debug\CapaEntidad.pdb

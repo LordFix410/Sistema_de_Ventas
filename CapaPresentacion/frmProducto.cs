@@ -37,6 +37,7 @@ namespace CapaPresentacion
             }
             cboCategoria.DisplayMember = "Texto";
             cboCategoria.ValueMember = "Valor";
+            if(cboCategoria.Items!=null) { }
             cboCategoria.SelectedIndex = 0;
 
             foreach (DataGridViewColumn columna in dgvData.Columns)
@@ -58,7 +59,7 @@ namespace CapaPresentacion
                 dgvData.Rows.Add(new object[] { "",item.IdProducto, item.Codigo, item.Nombre, item.Descripcion, item.oCategoria.IdCategoria,
                     item.oCategoria.Descripcion, item.Stock, item.PrecioCompra, item.PrecioVenta,
                     item.Estado == true ? 1 :0,
-                    item.Estado == true? "Activo":"Inactivo"
+                    item.Estado == true? "Activo":"Inactivo"    
                 });
             }
             dgvData.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.AllCells;

@@ -48,3 +48,20 @@ E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoS
 E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
 E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaNegocio\obj\Debug\CapaNegocio.dll
 E:\No Abrir ni Borrar\Progra\1. PROYECTOS TERMINADOS\Cursos Sistema Final\CursoSistemaVentas\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\GITHUB\Sistema_de_Ventas\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\GITHUB\Sistema_de_Ventas\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\GITHUB\Sistema_de_Ventas\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\GITHUB\Sistema_de_Ventas\CapaNegocio\bin\Debug\CapaEntidad.dll
+D:\GITHUB\Sistema_de_Ventas\CapaNegocio\bin\Debug\Microsoft.SqlServer.Server.dll
+D:\GITHUB\Sistema_de_Ventas\CapaNegocio\bin\Debug\System.Data.SqlClient.dll
+D:\GITHUB\Sistema_de_Ventas\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\GITHUB\Sistema_de_Ventas\CapaNegocio\bin\Debug\CapaEntidad.pdb
+D:\GITHUB\Sistema_de_Ventas\CapaNegocio\bin\Debug\CapaEntidad.dll.config
+D:\GITHUB\Sistema_de_Ventas\CapaNegocio\bin\Debug\Microsoft.SqlServer.Server.pdb
+D:\GITHUB\Sistema_de_Ventas\CapaNegocio\bin\Debug\Microsoft.SqlServer.Server.xml
+D:\GITHUB\Sistema_de_Ventas\CapaNegocio\bin\Debug\System.Data.SqlClient.xml
+D:\GITHUB\Sistema_de_Ventas\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+D:\GITHUB\Sistema_de_Ventas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\GITHUB\Sistema_de_Ventas\CapaNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
+D:\GITHUB\Sistema_de_Ventas\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\GITHUB\Sistema_de_Ventas\CapaNegocio\obj\Debug\CapaNegocio.pdb
